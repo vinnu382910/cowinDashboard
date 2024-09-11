@@ -1,0 +1,19 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.graph-cont {
+  background-color: #1c1c2b;
+  padding: 30px;
+  width: 80%;
+  margin-bottom: 20px;
+}
+
+.main-heading {
+  color: #fff;
+  font-family: Roboto;
+  font-weight: bold;
+  margin-bottom: 50px;
+}
+
+.bar {
+  border-radius: 5px;
+}

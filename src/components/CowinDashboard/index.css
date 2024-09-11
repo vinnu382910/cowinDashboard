@@ -1,0 +1,37 @@
+/* Write your CSS here */
+
+.main-cont {
+  min-height: 100vh;
+  padding-left: 60px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #161625;
+}
+
+.logo-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.para {
+  color: #2cc6c6;
+  font-family: Roboto;
+  font-weight: bold;
+  margin-left: 10px;
+  font-size: 22px;
+}
+
+.logo {
+  height: 40px;
+  width: 40px;
+}
+
+.main-heading {
+  color: #cbd5e1;
+  font-family: Roboto;
+  font-weight: bold;
+}
